@@ -36,22 +36,6 @@ Finds users with similar reading behavior and recommends books liked by those si
 - Streamlit
 - Pickle
 
----
-
-## 📂 Project Structure
-
-```text
-Book_Recommendation_ML_Project/
-│
-├── Book_Recommend_app.py
-├── Book_Recommendation_Main.ipynb
-├── pt.pkl
-├── books.pkl
-├── similarity_scores.pkl
-├── user_similarity.pkl
-├── requirements.txt
-└── README.md
-
 📊 Dataset
 
 The project uses three datasets:
@@ -96,3 +80,19 @@ Add hybrid recommendation system
 Improve UI design
 Deploy on cloud platform
 Add login-based personalized recommendations
+
+---
+
+## 📂 Project Structure
+
+```text
+Book_Recommendation_ML_Project/
+│
+├── Book_Recommend_app.py
+├── Book_Recommendation_Main.ipynb
+├── pt.pkl
+├── books.pkl
+├── similarity_scores.pkl
+├── user_similarity.pkl
+├── requirements.txt
+└── README.md
