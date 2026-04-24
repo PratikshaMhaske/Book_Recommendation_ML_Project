@@ -86,6 +86,7 @@ Add login-based personalized recommendations
 ## 📂 Project Structure
 
 ```text
+
 Book_Recommendation_ML_Project/
 │
 ├── Book_Recommend_app.py
@@ -97,11 +98,10 @@ Book_Recommendation_ML_Project/
 ├── requirements.txt
 └── README.md
 
-
-**Author
+Author
 
 Er. Pratiksha Mhaske
 
 LinkedIn: https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
-GitHub: https://github.com/PratikshaMhaske**
+GitHub: https://github.com/PratikshaMhaske
