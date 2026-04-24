@@ -96,3 +96,12 @@ Book_Recommendation_ML_Project/
 ├── user_similarity.pkl
 ├── requirements.txt
 └── README.md
+
+
+**Author
+
+Er. Pratiksha Mhaske
+
+LinkedIn: https://www.linkedin.com/in/pratiksha-mhaske-173643387
+
+GitHub: https://github.com/PratikshaMhaske**
